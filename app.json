@@ -5,7 +5,7 @@
   "keywords": ["ember", "ember.js"],
   "buildpacks": [
     {
-      "url": "https://codon-buildpacks.s3.amazonaws.com/buildpacks/heroku/emberjs.tgz"
+      "url": "https://codon-buildpacks.s3.amazonaws.com/buildpacks/hone/emberjs.tgz"
     }
   ]
 }
